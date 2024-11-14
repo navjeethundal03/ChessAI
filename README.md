@@ -7,13 +7,13 @@ A simplified chess game built with Python and Pygame. This project includes a ba
   - The game features a user-friendly graphical interface developed using the Pygame library.
 
 - **AI Opponent:** 
-    - Challenge a CPU player that makes strategic moves within specified depth limits. Increases the depth creates a more challenging AI. 
+  - Challenge a CPU player that makes strategic moves within specified depth limits. Increases the depth creates a more challenging AI. 
 
 - **Standard Chess Rules:** 
-    -Full support for advanced rules like en passant and castling.
+  - Full support for advanced rules like en passant and castling.
 
 - **Undo and Reset Options:** 
-    -Allows you to undo moves or reset the board. (Press Z for undo. Press R for reset.)
+  - Allows you to undo moves or reset the board. (Press Z for undo. Press R for reset.)
 
 - **Immersive Sounds and Images:**
   - Enhance your gaming experience with multiple piece move, capture, check, and checkmate sounds.
