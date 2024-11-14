@@ -12,7 +12,7 @@ A simplified chess game built with Python and Pygame. This project includes a ba
 - **Standard Chess Rules:** 
     -Full support for advanced rules like en passant and castling.
 
--**Undo and Reset Options:** 
+- **Undo and Reset Options:** 
     -Allows you to undo moves or reset the board. (Press Z for undo. Press R for reset.)
 
 - **Immersive Sounds and Images:**
